@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usmanialihassan92
+- 👋 Hi, I’m Ali Hassan
 - 👀 I’m interested in Deep Learning and Light Field
 - 🌱 I’m currently learning Deep Learning Compression
 - 💞️ I’m looking to collaborate on research ideas on Deep Learning and Light Field Technology
